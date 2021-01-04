@@ -1,4 +1,4 @@
-# automaticTinderSwiper
+# AutomaticTinderSwiper
 
 This is an automatic Tinder swiper.
 
