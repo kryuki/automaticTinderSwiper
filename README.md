@@ -12,6 +12,6 @@ This is an automatic Tinder swiper.
 
 Then, copy and paste the code from **automaticSwipe.js**. Press Enter, and an alert box pops up asking you if you are ready.
 
-3. Happy swiping! :)
+3. Just sit down and relax. Happy swiping! :)
 
 
