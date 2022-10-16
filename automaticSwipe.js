@@ -1,7 +1,9 @@
 const confirmBox = confirm('Start swiping right?');
 const buttons = document.querySelectorAll(".focus-button-style");
-const likeButton = buttons[10];
-const dislikeButton = buttons[12];
+const N = buttons.length;
+const adjust = 0
+const likeButton = buttons[N - 3 - adjust];
+const dislikeButton = buttons[N - 5 - adjust];
 
 let counter = 0;
 
